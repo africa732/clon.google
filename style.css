@@ -27,7 +27,7 @@ a{
 }
 
 .nav-right-section a{
-    margin-right: 25px;
+    margin-right: 18px;
     color: #000000DE;
 }
 
@@ -36,11 +36,9 @@ a{
     width: 20px;
     height: 20px;
     background-size: contain;
-    background-repeat: no-repeat;
-
-
-
 }
+
+
 .nav-right-section img{
     margin-left: 20px;
     border-radius: 60px;
@@ -152,8 +150,8 @@ footer{
 }
 .footer-location{
     color: #70757a;
-    
 }
+
 .footer-left{
     justify-content: left;
 }
@@ -165,11 +163,8 @@ footer ul{
     list-style: none;
     display: flex;
     padding-left: 0px;
-
 }
 footer ul li a{
     color: #70757a;
     margin: 10px;
-    background-color: #f8f9fa;
-
 }
